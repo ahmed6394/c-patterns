@@ -1,4 +1,4 @@
-// Enter N: 5 ** Foyed Triangle
+// Enter N: 5 ** Floyed Triangle
 // 1
 // 2 3
 // 4 5 6
